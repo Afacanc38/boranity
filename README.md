@@ -12,5 +12,6 @@
 </br>
 
 ## Projects
-![](https://github-readme-stats.vercel.app/api?username=boranity&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=boranity&langs_count=4&layout=compact)
+![boranity github stats](https://github-readme-stats.vercel.app/api?username=boranity&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boranity&langs_count=9&hide=html,css&layout=compact&theme=dark)
+
