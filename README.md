@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
- <a href="https://discord.com/users/803613512374550589" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.gg/3wAdhGVjMK" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/q2661c8ytxyuzqyvbgt3bgb6s" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   
   
